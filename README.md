@@ -48,38 +48,6 @@ I'm a passionate developer working at **Alves Solutions**, focused on building i
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rootless-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=DD2727&point=DD2727)
 
-## 📝 Blog & Portfolio
-
-<p align="center">
-  <a href="https://alves.solutions">
-    <img src="https://img.shields.io/badge/Website-alves.solutions-4B9CD3?style=for-the-badge&logo=google-chrome&logoWidth=20" alt="Website" />
-  </a>
-  <a href="https://blog.alves.solutions">
-    <img src="https://img.shields.io/badge/Blog-Coming%20Soon-FE2E2E?style=for-the-badge&logo=medium&logoWidth=20" alt="Blog" />
-  </a>
-  <a href="https://github.com/rootless-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-100000?style=for-the-badge&logo=github&logoWidth=20" alt="Portfolio" />
-  </a>
-</p>
-
-## 🤝 Let's Connect!
-
-I'm always interested in meeting new people and discussing potential collaborations. Feel free to reach out!
-
-<p align="center">
-  <a href="https://github.com/rootless-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="mailto:contact@alves.solutions">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://linkedin.com/in/rootless-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
