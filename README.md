@@ -1,4 +1,13 @@
-# Hi there! I'm Rootless Dev 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=DD2727&center=true&vCenter=true&width=940&height=80&lines=Hi+there!+I'm+Rootless+Dev+%F0%9F%91%8B;Software+Engineer+%40+Alves+Solutions;Open+Source+Enthusiast;Building+scalable+systems+with+Go+%F0%9F%90%B9)]
+
+[![GitHub followers](https://img.shields.io/github/followers/rootless-dev?style=social&label=Follow&maxAge=2592000)](https://github.com/rootless-dev)
+[![GitHub stars](https://img.shields.io/github/stars/rootless-dev?style=social)](https://github.com/rootless-dev)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
