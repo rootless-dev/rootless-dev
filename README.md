@@ -1,12 +1,5 @@
 # Hi there! I'm Rootless Dev 👋
 
-<a href="https://github.com/rootless-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootless-dev&show_icons=true&theme=tokyo_night&hide_border=true&bg_color=0D1117" alt="Rootless Dev's GitHub Stats" />
-</a>
-<a href="https://github.com/rootless-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootless-dev&layout=compact&theme=tokyo_night&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</a>
-
 ## 🚀 About Me
 
 I'm a passionate developer working at **Alves Solutions**, focused on building innovative solutions and exploring cutting-edge technologies.
@@ -28,16 +21,6 @@ I'm a passionate developer working at **Alves Solutions**, focused on building i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rootless-dev&theme=tokyo_night&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootless-dev&theme=tokyo_night&hide_border=true&background=0D1117&stroke=DD2727" alt="GitHub Streak" />
-</p>
 
 ## 🤝 Let's Connect!
 
